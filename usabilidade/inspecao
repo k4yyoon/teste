@@ -1,1 +1,53 @@
+# Markdown
 
+## Fundamentos
+
+### Paragrafos e espaços
+XXXXXX
+---
+YYYYY
+
+### Negrito e italico
+
+*Italico*
+_Itálico_
+
+**Negrito**
+__Negrito__
+
+***kay***
+#### Listagem
+#### Lista não ordenada
+- x
+- y
+- z
+
+#### Lista ordenada
+1. x
+2. y
+3. w
+
+#### Lista aninhada
+- x
+   - y
+      - z
+### Imagens e links
+[Acesse o site clicando aqui](https://ecampus.ufam.edu.br/ecampus/home/login)
+
+<img width="350" alt="download" src="https://github.com/user-attachments/assets/9d54df75-0b68-4c3f-abc8-92c88326cec8" />
+
+### Tabela
+|xxx|yyy|zzz|
+|:---|:---:|---:|
+|x|y|z|
+
+### Citação
+>hello
+
+### Bloco de cógigo
+```
+if nota >8;
+print("aprovado")
+
+```
+###
